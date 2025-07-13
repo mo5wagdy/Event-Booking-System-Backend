@@ -39,9 +39,6 @@ Below are some screenshots demonstrating key features and interfaces of the Even
   <img src="Repo Screens/Screenshot 2025-07-13 214533.png" alt="Dashboard Overview" width="700"/>
 </p>
 <p align="center">
-  <img src="Repo Screens/Screenshot 2025-07-13 214546.png" alt="Event Management" width="700"/>
-</p>
-<p align="center">
   <img src="Repo Screens/Screenshot 2025-07-13 214604.png" alt="Booking Management" width="700"/>
 </p>
 
