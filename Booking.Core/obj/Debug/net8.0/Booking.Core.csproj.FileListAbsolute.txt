@@ -1,0 +1,16 @@
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\bin\Debug\net8.0\Booking.Core.deps.json
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\bin\Debug\net8.0\Booking.Core.dll
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\bin\Debug\net8.0\Booking.Core.pdb
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\bin\Debug\net8.0\SharedLiberary.dll
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\bin\Debug\net8.0\SharedLiberary.pdb
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.AssemblyInfoInputs.cache
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.AssemblyInfo.cs
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.sourcelink.json
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking..A78DD916.Up2Date
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.dll
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\refint\Booking.Core.dll
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\Booking.Core.pdb
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\Booking.Core\obj\Debug\net8.0\ref\Booking.Core.dll

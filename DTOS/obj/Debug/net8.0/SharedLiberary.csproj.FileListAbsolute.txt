@@ -1,0 +1,13 @@
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\bin\Debug\net8.0\SharedLiberary.deps.json
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\bin\Debug\net8.0\SharedLiberary.dll
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\bin\Debug\net8.0\SharedLiberary.pdb
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.AssemblyInfoInputs.cache
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.AssemblyInfo.cs
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.sourcelink.json
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.dll
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\refint\SharedLiberary.dll
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\SharedLiberary.pdb
+C:\Users\moham\Downloads\CV Projects\2\Event Booking System\Event Booking System Backend\DTOS\obj\Debug\net8.0\ref\SharedLiberary.dll

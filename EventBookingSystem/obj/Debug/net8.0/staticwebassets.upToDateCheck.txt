@@ -1,0 +1,9 @@
+wwwroot\Images\events\AI & ML Summit.png
+wwwroot\Images\events\Art & Sculpture Show.png
+wwwroot\Images\events\Design Thinking Bootcamp.jpeg
+wwwroot\Images\events\Food Carnival.jpeg
+wwwroot\Images\events\Gaming Expo.png
+wwwroot\Images\events\Music Festival.jpeg
+wwwroot\Images\events\Photography Workshop.png
+wwwroot\Images\events\Startup Pitch Day.jpeg
+wwwroot\Images\events\Tech Conference 2025.jpeg

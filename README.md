@@ -29,6 +29,24 @@ This backend powers the EventBookingSystem, providing RESTful APIs for event man
 
 ---
 
+---
+
+## Screenshots
+
+Below are some screenshots demonstrating key features and interfaces of the EventBookingSystem backend:
+
+<p align="center">
+  <img src="Repo Screens/Screenshot 2025-07-13 214533.png" alt="Dashboard Overview" width="700"/>
+</p>
+<p align="center">
+  <img src="Repo Screens/Screenshot 2025-07-13 214546.png" alt="Event Management" width="700"/>
+</p>
+<p align="center">
+  <img src="Repo Screens/Screenshot 2025-07-13 214604.png" alt="Booking Management" width="700"/>
+</p>
+
+---
+
 ## Architecture
 
 - **ASP.NET Core Web API** – Main API layer

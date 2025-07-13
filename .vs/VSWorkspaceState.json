@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    "\\unitTesting",
+    "",
+    "\\EventBookingSystem",
     "\\unitTesting\\ServiceLayer"
   ],
+  "SelectedNode": "\\EventBookingSystem\\EventBookingSystem.csproj",
   "PreviewInSolutionExplorer": false
 }
