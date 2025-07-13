@@ -1,53 +1,36 @@
-# EventBookingSystem – Backend
+# 🎟️ EventBookingSystem – Backend
 
-A robust, scalable backend for an event booking platform, built with ASP.NET Core and Entity Framework Core. This API enables users to browse, book, and manage event reservations, with comprehensive admin features and secure authentication.
-
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup & Installation](#setup--installation)
-  - [Database Migration](#database-migration)
-  - [Running the API](#running-the-api)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+A robust, scalable backend for an event booking platform, built with **ASP.NET Core** and **Entity Framework Core**. This API enables users to browse, book, and manage event reservations, with comprehensive admin features and secure authentication.
 
 ---
 
-## Overview
+## 📑 Table of Contents
+
+- [📝 Overview](#-overview)
+- [🏛️ Architecture](#-architecture)
+- [✨ Features](#-features)
+- [🖼️ Screenshots](#-screenshots)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Getting Started](#-getting-started)
+  - [🔧 Prerequisites](#-prerequisites)
+  - [⚙️ Setup & Installation](#️-setup--installation)
+  - [🗄️ Database Migration](#️-database-migration)
+  - [▶️ Running the API](#️-running-the-api)
+- [📚 API Documentation](#-api-documentation)
+- [🧪 Testing](#-testing)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [🤝 Contributing](#-contributing)
+- [🪪 License](#-license)
+
+---
+
+## 📝 Overview
 
 This backend powers the EventBookingSystem, providing RESTful APIs for event management, user authentication, and booking operations. It supports both user-facing and admin functionalities, ensuring a seamless and secure experience.
 
 ---
 
----
-
-## Screenshots
-
-Below are some screenshots demonstrating key features and interfaces of the EventBookingSystem backend:
-
-<p align="center">
-  <img src="Repo Screens/Screenshot 2025-07-13 214533.png" alt="Dashboard Overview" width="700"/>
-</p>
-<p align="center">
-  <img src="Repo Screens/Screenshot 2025-07-13 214546.png" alt="Event Management" width="700"/>
-</p>
-<p align="center">
-  <img src="Repo Screens/Screenshot 2025-07-13 214604.png" alt="Booking Management" width="700"/>
-</p>
-
----
-
-## Architecture
+## 🏛️ Architecture
 
 - **ASP.NET Core Web API** – Main API layer
 - **Entity Framework Core** – ORM for data access
@@ -57,19 +40,36 @@ Below are some screenshots demonstrating key features and interfaces of the Even
 
 ---
 
-## Features
+## ✨ Features
 
-- User registration and JWT-based authentication
-- Event browsing and search
-- Booking creation and cancellation
-- User-specific booking management
-- Admin dashboard for event and booking administration
-- API documentation via Swagger
-- Comprehensive unit and integration tests
+- 👤 User registration and JWT-based authentication
+- 🔍 Event browsing and search
+- 📝 Booking creation and cancellation
+- 📋 User-specific booking management
+- 🛠️ Admin dashboard for event and booking administration
+- 📖 API documentation via Swagger
+- ✅ Comprehensive unit and integration tests
 
 ---
 
-## Project Structure
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="Repo Screens/Screenshot 2025-07-13 214533.png" alt="Dashboard Overview" width="700"/>
+  <br/><b>Dashboard Overview</b>
+</p>
+<p align="center">
+  <img src="Repo Screens/Screenshot 2025-07-13 214546.png" alt="Event Management" width="700"/>
+  <br/><b>Event Management</b>
+</p>
+<p align="center">
+  <img src="Repo Screens/Screenshot 2025-07-13 214604.png" alt="Booking Management" width="700"/>
+  <br/><b>Booking Management</b>
+</p>
+
+---
+
+## 📁 Project Structure
 
 ```
 EventBookingSystem/
@@ -88,14 +88,14 @@ EventBookingSystem/
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 🔧 Prerequisites
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - SQL Server (or update connection string for your preferred DB)
 
-### Setup & Installation
+### ⚙️ Setup & Installation
 
 1. **Clone the repository:**
    ```sh
@@ -109,7 +109,7 @@ EventBookingSystem/
    dotnet build
    ```
 
-### Database Migration
+### 🗄️ Database Migration
 
 1. Update your connection string in `appsettings.json` ([AdminDashBoard/appsettings.json](AdminDashBoard/appsettings.json) or [EventBookingSystem/appsettings.json](EventBookingSystem/appsettings.json)).
 2. Apply migrations:
@@ -117,7 +117,7 @@ EventBookingSystem/
    dotnet ef database update --project EventBookingSystem/EventBookingSystem.csproj
    ```
 
-### Running the API
+### ▶️ Running the API
 
 ```sh
 dotnet run --project EventBookingSystem/EventBookingSystem.csproj
@@ -126,7 +126,7 @@ The API will be available at `https://localhost:5001` (or as configured).
 
 ---
 
-## API Documentation
+## 📚 API Documentation
 
 - Interactive API docs available at `/swagger` when the backend is running.
 - Main endpoints:
@@ -141,7 +141,7 @@ The API will be available at `https://localhost:5001` (or as configured).
 
 ---
 
-## Testing
+## 🧪 Testing
 
 1. **Navigate to the test project:**
    ```sh
@@ -154,7 +154,7 @@ The API will be available at `https://localhost:5001` (or as configured).
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Backend:** ASP.NET Core, Entity Framework Core, SQL Server
 - **Authentication:** JWT
@@ -163,7 +163,7 @@ The API will be available at `https://localhost:5001` (or as configured).
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository and create your branch (`git checkout -b feature/your-feature`)
 2. Commit your changes (`git commit -am 'Add new feature'`)
@@ -172,6 +172,6 @@ The API will be available at `https://localhost:5001` (or as configured).
 
 ---
 
-## License
+## 🪪 License
 
 This project is licensed under the MIT License.
