@@ -1,0 +1,17 @@
+﻿@model EventViewModel
+
+@{
+    ViewData["Title"] = "Edit Event";
+    ViewData["Action"] = "Edit";
+}
+
+<h2>Edit Event</h2>
+
+@Html.Partial("_EventFormPartial", Model)
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

@@ -1,0 +1,90 @@
+[
+  {
+
+    "Name": "Tech Conference 2025",
+    "Description": "Annual gathering of developers and engineers.",
+    "ImageName": "Images/events/Tech Conference 2025",
+    "Category": 1,
+    "Price": 199.99,
+    "Date": "2025-06-15T09:00:00",
+    "Venue": "Convention Center A"
+  },
+  {
+
+    "Name": "Music Festival",
+    "Description": "Top artists and bands perform live.",
+    "ImageName": "Images/events/Music Festival",
+    "Category": 2,
+    "Price": 89.50,
+    "Date": "2025-07-20T17:00:00",
+    "Venue": "River Park Arena"
+  },
+  {
+
+    "Name": "Startup Pitch Day",
+    "Description": "Startups pitch their ideas to investors.",
+    "ImageName": "Images/events/Startup Pitch Day",
+    "Category": 1,
+    "Price": 60.00,
+    "Date": "2025-08-01T10:00:00",
+    "Venue": "Tech Hub Hall"
+  },
+  {
+
+    "Name": "Food Carnival",
+    "Description": "Enjoy food from around the world.",
+    "ImageName": "Images/events/Food Carnival",
+    "Category": 3,
+    "Price": 25.00,
+    "Date": "2025-08-12T11:00:00",
+    "Venue": "City Square"
+  },
+  {
+    "Name": "Photography Workshop",
+    "Description": "Learn the art of digital photography.",
+    "ImageName": "Images/events/Photography Workshop",
+    "Category": 4,
+    "Price": 49.99,
+    "Date": "2025-09-05T14:00:00",
+    "Venue": "Studio X"
+  },
+  {
+    "Name": "Design Thinking Bootcamp",
+    "Description": "Practical training for creative problem solving.",
+    "ImageName": "Images/events/Design Thinking Bootcamp",
+    "Category": 1,
+    "Price": 149.00,
+    "Date": "2025-09-20T09:00:00",
+    "Venue": "Innovation Center"
+  },
+  {
+
+    "Name": "Gaming Expo",
+    "Description": "Preview upcoming games and hardware.",
+    "ImageName": "Images/events/Gaming Expo",
+    "Category": 2,
+    "Price": 60.00,
+    "Date": "2025-10-01T10:00:00",
+    "Venue": "Exhibition Hall"
+  },
+  {
+
+    "Name": "Art & Sculpture Show",
+    "Description": "Modern and classic sculptures on display.",
+    "ImageName": "Images/events/Art & Sculpture Show",
+    "Category": 3,
+    "Price": 30.00,
+    "Date": "2025-10-15T11:00:00",
+    "Venue": "City Art Gallery"
+  },
+  {
+
+    "Name": "AI & ML Summit",
+    "Description": "Exploring innovations in AI and machine learning.",
+    "ImageName": "Images/events/AI & ML Summit",
+    "Category": 1,
+    "Price": 299.99,
+    "Date": "2025-11-10T09:00:00",
+    "Venue": "Tech Dome"
+  }
+]

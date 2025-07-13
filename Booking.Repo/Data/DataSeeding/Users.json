@@ -1,0 +1,72 @@
+[
+  {
+
+    "Name": "John Doe",
+    "Email": "johndoe@example.com",
+    "Password": "hashed_password_123",
+    "Role": "Admin"
+  },
+  {
+
+    "Name": "Jane Smith",
+    "Email": "janesmith@example.com",
+    "Password": "hashed_password_456",
+    "Role": "User"
+  },
+  {
+  
+    "Name": "Michael Johnson",
+    "Email": "michaelj@example.com",
+    "Password": "hashed_password_789",
+    "Role": "User"
+  },
+  {
+
+    "Name": "Emily Davis",
+    "Email": "emilyd@example.com",
+    "Password": "hashed_password_101",
+    "Role": "User"
+  },
+  {
+
+    "Name": "David Wilson",
+    "Email": "davidw@example.com",
+    "Password": "hashed_password_202",
+    "Role": "Admin"
+  },
+  {
+
+    "Name": "Sophia Miller",
+    "Email": "sophiam@example.com",
+    "Password": "hashed_password_303",
+    "Role": "User"
+  },
+  {
+   
+    "Name": "James Taylor",
+    "Email": "jamest@example.com",
+    "Password": "hashed_password_404",
+    "Role": "User"
+  },
+  {
+
+    "Name": "Olivia Moore",
+    "Email": "oliviam@example.com",
+    "Password": "hashed_password_505",
+    "Role": "Admin"
+  },
+  {
+
+    "Name": "William Harris",
+    "Email": "williamh@example.com",
+    "Password": "hashed_password_606",
+    "Role": "User"
+  },
+  {
+ 
+    "Name": "Ava Clark",
+    "Email": "avac@example.com",
+    "Password": "hashed_password_707",
+    "Role": "User"
+  }
+]

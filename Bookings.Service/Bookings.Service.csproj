@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Booking.Core\Booking.Core.csproj" />
+    <ProjectReference Include="..\Booking.Repo\Booking.Repo.csproj" />
+    <ProjectReference Include="..\DTOS\SharedLiberary.csproj" />
+  </ItemGroup>
+
+</Project>
